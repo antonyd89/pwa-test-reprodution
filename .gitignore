@@ -1,0 +1,32 @@
+# inspired by https://www.gitignore.io/
+
+# build, cache
+**/dist
+**/distTemp
+
+# node, npm
+node_modules
+.npm
+
+# Log files
+npm-debug.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+*.sublime-workspace
+
+**/docs/.vuepress/dist
+
+**/report/jscpd-report.html
+**/tc-cli-result.txt
+
+# Vim swap files
+*.swp
+
+generated/storyblok-components.json
