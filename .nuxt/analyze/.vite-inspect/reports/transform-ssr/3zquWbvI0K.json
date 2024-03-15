@@ -1,0 +1,17 @@
+{
+  "resolvedId": "virtual:nuxt:/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/.nuxt/css.mjs",
+  "transforms": [
+    {
+      "name": "__load__",
+      "result": "",
+      "start": 1710515623546,
+      "end": 1710515623546
+    },
+    {
+      "name": "vite:reporter",
+      "start": 1710515623546,
+      "end": 1710515623546,
+      "order": "normal"
+    }
+  ]
+}

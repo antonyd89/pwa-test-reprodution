@@ -1,0 +1,5613 @@
+{
+  "root": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku",
+  "modules": [
+    {
+      "id": "\u0000virtual:nuxt-pwa-configuration",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite-pwa-nuxt:configuration",
+          "resolveId": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 0,
+      "sourceSize": 0,
+      "distSize": 0
+    },
+    {
+      "id": "\u0000virtual:pwa-assets/icons",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite-plugin-pwa:pwa-assets",
+          "resolveId": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 0,
+      "sourceSize": 0,
+      "distSize": 0
+    },
+    {
+      "id": "\u0000virtual:pwa-info",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite-plugin-pwa:info",
+          "resolveId": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 0,
+      "sourceSize": 0,
+      "distSize": 0
+    },
+    {
+      "id": "/@vite-plugin-pwa/virtual:pwa-register/vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite-plugin-pwa",
+          "transform": 127
+        },
+        {
+          "name": "vite:build-import-analysis",
+          "transform": 0
+        },
+        {
+          "name": "vite-plugin-pwa",
+          "resolveId": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 127,
+      "invokeCount": 1,
+      "sourceSize": 3533,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/.nuxt/app.config.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 126
+        },
+        {
+          "name": "vite:define",
+          "transform": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 126,
+      "invokeCount": 1,
+      "sourceSize": 393,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/@nuxt/ui-templates/dist/templates/error-404.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 181
+        },
+        {
+          "name": "vite:vue",
+          "transform": 2
+        },
+        {
+          "name": "nuxt:imports-transform",
+          "transform": 1
+        },
+        {
+          "name": "nuxt:components-loader",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "ssr-styles",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 184,
+      "invokeCount": 1,
+      "sourceSize": 5283,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/@nuxt/ui-templates/dist/templates/error-404.vue?vue&type=style&index=0&scoped=ccd3db62&lang.css",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue",
+          "transform": 0
+        },
+        {
+          "name": "vite:css",
+          "transform": 10
+        },
+        {
+          "name": "vite:vue",
+          "transform": 2
+        },
+        {
+          "name": "vite:css-post",
+          "transform": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 12,
+      "invokeCount": 1,
+      "sourceSize": 3195,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/@nuxt/ui-templates/dist/templates/error-500.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 166
+        },
+        {
+          "name": "vite:vue",
+          "transform": 2
+        },
+        {
+          "name": "nuxt:imports-transform",
+          "transform": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "ssr-styles",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 169,
+      "invokeCount": 1,
+      "sourceSize": 3283,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/@nuxt/ui-templates/dist/templates/error-500.vue?vue&type=style&index=0&scoped=df79c84d&lang.css",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue",
+          "transform": 0
+        },
+        {
+          "name": "vite:css",
+          "transform": 7
+        },
+        {
+          "name": "vite:vue",
+          "transform": 1
+        },
+        {
+          "name": "vite:css-post",
+          "transform": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 8,
+      "invokeCount": 1,
+      "sourceSize": 1494,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/@nuxt/ui-templates/dist/templates/error-dev.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 142
+        },
+        {
+          "name": "vite:vue",
+          "transform": 3
+        },
+        {
+          "name": "nuxt:imports-transform",
+          "transform": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "ssr-styles",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 146,
+      "invokeCount": 1,
+      "sourceSize": 4089,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/@nuxt/ui-templates/dist/templates/error-dev.vue?vue&type=style&index=0&scoped=51ccc917&lang.css",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue",
+          "transform": 0
+        },
+        {
+          "name": "vite:css",
+          "transform": 10
+        },
+        {
+          "name": "vite:vue",
+          "transform": 3
+        },
+        {
+          "name": "vite:css-post",
+          "transform": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 13,
+      "invokeCount": 1,
+      "sourceSize": 1946,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/@unhead/dom/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 111
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 111,
+      "invokeCount": 1,
+      "sourceSize": 4451,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/@unhead/shared/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 117
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 117,
+      "invokeCount": 1,
+      "sourceSize": 20287,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/@unhead/vue/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 116
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 116,
+      "invokeCount": 1,
+      "sourceSize": 3864,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/@unhead/vue/dist/shared/vue.cf295fb1.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 125
+        },
+        {
+          "name": "vite:define",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 125,
+      "invokeCount": 1,
+      "sourceSize": 2633,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/@unhead/vue/dist/shared/vue.f36acd1f.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 122
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 122,
+      "invokeCount": 1,
+      "sourceSize": 1035,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/@vite-pwa/nuxt/dist/runtime/components/VitePwaManifest.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 70
+        },
+        {
+          "name": "nuxt:imports-transform",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 70,
+      "invokeCount": 1,
+      "sourceSize": 703,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/@vite-pwa/nuxt/dist/runtime/plugins/pwa-icons.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 69
+        },
+        {
+          "name": "nuxt:imports-transform",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 70,
+      "invokeCount": 1,
+      "sourceSize": 896,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/@vite-pwa/nuxt/dist/runtime/plugins/pwa.client.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 76
+        },
+        {
+          "name": "nuxt:imports-transform",
+          "transform": 2
+        }
+      ],
+      "virtual": false,
+      "totalTime": 78,
+      "invokeCount": 1,
+      "sourceSize": 3837,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/@vue/devtools-api/lib/esm/api/api.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 31
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 31,
+      "invokeCount": 1,
+      "sourceSize": 11,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/@vue/devtools-api/lib/esm/api/app.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 34
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 34,
+      "invokeCount": 1,
+      "sourceSize": 11,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/@vue/devtools-api/lib/esm/api/component.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 30
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 30,
+      "invokeCount": 1,
+      "sourceSize": 11,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/@vue/devtools-api/lib/esm/api/context.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 33
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 33,
+      "invokeCount": 1,
+      "sourceSize": 11,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/@vue/devtools-api/lib/esm/api/hooks.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 33
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 33,
+      "invokeCount": 1,
+      "sourceSize": 11,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/@vue/devtools-api/lib/esm/api/index.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 144
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 144,
+      "invokeCount": 1,
+      "sourceSize": 169,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/@vue/devtools-api/lib/esm/api/util.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 33
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 33,
+      "invokeCount": 1,
+      "sourceSize": 11,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/@vue/devtools-api/lib/esm/const.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 185
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 185,
+      "invokeCount": 1,
+      "sourceSize": 114,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/@vue/devtools-api/lib/esm/env.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 187
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 187,
+      "invokeCount": 1,
+      "sourceSize": 383,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/@vue/devtools-api/lib/esm/index.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 82
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 82,
+      "invokeCount": 1,
+      "sourceSize": 1009,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/@vue/devtools-api/lib/esm/plugin.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 150
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 150,
+      "invokeCount": 1,
+      "sourceSize": 11,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/@vue/devtools-api/lib/esm/proxy.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 150
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 150,
+      "invokeCount": 1,
+      "sourceSize": 3533,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/@vue/devtools-api/lib/esm/time.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 144
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 144,
+      "invokeCount": 1,
+      "sourceSize": 640,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 71
+        },
+        {
+          "name": "vite:define",
+          "transform": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 72,
+      "invokeCount": 1,
+      "sourceSize": 34562,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 106
+        },
+        {
+          "name": "vite:define",
+          "transform": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 107,
+      "invokeCount": 1,
+      "sourceSize": 239565,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 110
+        },
+        {
+          "name": "vite:define",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 110,
+      "invokeCount": 1,
+      "sourceSize": 47434,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/@vue/shared/dist/shared.esm-bundler.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 85
+        },
+        {
+          "name": "vite:define",
+          "transform": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 86,
+      "invokeCount": 1,
+      "sourceSize": 18772,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/cookie-es/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 69
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 69,
+      "invokeCount": 1,
+      "sourceSize": 3644,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/defu/dist/defu.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 70
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 70,
+      "invokeCount": 1,
+      "sourceSize": 2052,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/destr/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 101
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 101,
+      "invokeCount": 1,
+      "sourceSize": 2207,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/devalue/index.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 66
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 66,
+      "invokeCount": 1,
+      "sourceSize": 141,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/devalue/src/constants.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 71
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 71,
+      "invokeCount": 1,
+      "sourceSize": 183,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/devalue/src/parse.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 88
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 88,
+      "invokeCount": 1,
+      "sourceSize": 3053,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/devalue/src/stringify.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 142
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 142,
+      "invokeCount": 1,
+      "sourceSize": 4304,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/devalue/src/uneval.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 88
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 88,
+      "invokeCount": 1,
+      "sourceSize": 6924,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/devalue/src/utils.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 111
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 111,
+      "invokeCount": 1,
+      "sourceSize": 1944,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/h3/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 130
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 130,
+      "invokeCount": 1,
+      "sourceSize": 60155,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/hookable/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 120
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 120,
+      "invokeCount": 1,
+      "sourceSize": 8302,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/iron-webcrypto/dist/index.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 67
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 67,
+      "invokeCount": 1,
+      "sourceSize": 11782,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/klona/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 134
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 134,
+      "invokeCount": 1,
+      "sourceSize": 1531,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/compat/idle-callback.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 98
+        },
+        {
+          "name": "replace",
+          "transform": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 99,
+      "invokeCount": 1,
+      "sourceSize": 456,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/components/injections.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 125
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 125,
+      "invokeCount": 1,
+      "sourceSize": 103,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/components/island-renderer.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 132
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 132,
+      "invokeCount": 1,
+      "sourceSize": 719,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/components/nuxt-error-page.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 75
+        },
+        {
+          "name": "vite:vue",
+          "transform": 3
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:build-import-analysis",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 78,
+      "invokeCount": 1,
+      "sourceSize": 1688,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/components/nuxt-layout.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 89
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 89,
+      "invokeCount": 1,
+      "sourceSize": 4083,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/components/nuxt-link.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 22
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 22,
+      "invokeCount": 1,
+      "sourceSize": 10108,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/components/nuxt-root.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 96
+        },
+        {
+          "name": "vite:vue",
+          "transform": 15
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "nuxt:tree-shake-composables:transform",
+          "transform": 1
+        },
+        {
+          "name": "vite:build-import-analysis",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 112,
+      "invokeCount": 1,
+      "sourceSize": 2279,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/components/route-provider.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 123
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 136
+        }
+      ],
+      "virtual": false,
+      "totalTime": 123,
+      "invokeCount": 1,
+      "sourceSize": 1419,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/components/test-component-wrapper.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 93
+        },
+        {
+          "name": "vite:build-import-analysis",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 93,
+      "invokeCount": 1,
+      "sourceSize": 943,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/components/utils.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 86
+        },
+        {
+          "name": "replace",
+          "transform": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 130
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 87,
+      "invokeCount": 1,
+      "sourceSize": 4361,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/composables/asyncData.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 93
+        },
+        {
+          "name": "replace",
+          "transform": 1
+        },
+        {
+          "name": "nuxt:tree-shake-composables:transform",
+          "transform": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 136
+        }
+      ],
+      "virtual": false,
+      "totalTime": 95,
+      "invokeCount": 1,
+      "sourceSize": 6899,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/composables/chunk.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 136
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 136,
+      "invokeCount": 1,
+      "sourceSize": 889,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/composables/error.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 106
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 88
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 106,
+      "invokeCount": 1,
+      "sourceSize": 1022,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/composables/manifest.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 128
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 128,
+      "invokeCount": 1,
+      "sourceSize": 984,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/composables/payload.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 115
+        },
+        {
+          "name": "replace",
+          "transform": 1
+        },
+        {
+          "name": "vite:build-import-analysis",
+          "transform": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 117,
+      "invokeCount": 1,
+      "sourceSize": 3787,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/composables/preload.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 19
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 19,
+      "invokeCount": 1,
+      "sourceSize": 1595,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/composables/ready.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 140
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 140,
+      "invokeCount": 1,
+      "sourceSize": 412,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/composables/router.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 157
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 163
+        },
+        {
+          "name": "alias",
+          "resolveId": 147
+        },
+        {
+          "name": "alias",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 157,
+      "invokeCount": 1,
+      "sourceSize": 5967,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/config.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 49
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:define",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 49,
+      "invokeCount": 1,
+      "sourceSize": 1574,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/entry.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 1
+        },
+        {
+          "name": "replace",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 2,
+      "invokeCount": 1,
+      "sourceSize": 2259,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/middleware/manifest-route-rule.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 156
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "unctx:transform",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 157,
+      "invokeCount": 1,
+      "sourceSize": 356,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/nuxt.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 99
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:define",
+          "transform": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 89
+        },
+        {
+          "name": "alias",
+          "resolveId": 83
+        },
+        {
+          "name": "alias",
+          "resolveId": 53
+        },
+        {
+          "name": "alias",
+          "resolveId": 37
+        },
+        {
+          "name": "alias",
+          "resolveId": 17
+        },
+        {
+          "name": "alias",
+          "resolveId": 8
+        },
+        {
+          "name": "alias",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 100,
+      "invokeCount": 1,
+      "sourceSize": 6071,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/plugins/check-outdated-build.client.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 55
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 55,
+      "invokeCount": 1,
+      "sourceSize": 795,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/plugins/chunk-reload.client.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 46
+        }
+      ],
+      "virtual": false,
+      "totalTime": 46,
+      "invokeCount": 1,
+      "sourceSize": 1047,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/plugins/payload.client.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 49
+        },
+        {
+          "name": "vite:define",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 49,
+      "invokeCount": 1,
+      "sourceSize": 1103,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/plugins/revive-payload.client.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 11
+        },
+        {
+          "name": "unctx:transform",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 12,
+      "invokeCount": 1,
+      "sourceSize": 1542,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/head/runtime/plugins/unhead.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 4
+        },
+        {
+          "name": "replace",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 5,
+      "invokeCount": 1,
+      "sourceSize": 1315,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/pages/runtime/app.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 95
+        },
+        {
+          "name": "vite:vue",
+          "transform": 1
+        },
+        {
+          "name": "nuxt:components-loader",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 96,
+      "invokeCount": 1,
+      "sourceSize": 71,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/pages/runtime/page.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 84
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 84,
+      "invokeCount": 1,
+      "sourceSize": 4931,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/pages/runtime/plugins/prefetch.client.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 52
+        }
+      ],
+      "virtual": false,
+      "totalTime": 52,
+      "invokeCount": 1,
+      "sourceSize": 1268,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/pages/runtime/plugins/router.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 18
+        },
+        {
+          "name": "replace",
+          "transform": 1
+        },
+        {
+          "name": "unctx:transform",
+          "transform": 4
+        }
+      ],
+      "virtual": false,
+      "totalTime": 23,
+      "invokeCount": 1,
+      "sourceSize": 7123,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/pages/runtime/router.options.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 154
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 154,
+      "invokeCount": 1,
+      "sourceSize": 1714,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/pages/runtime/utils.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 131
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 131,
+      "invokeCount": 1,
+      "sourceSize": 789,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/pages/runtime/validate.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 155
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "unctx:transform",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 155,
+      "invokeCount": 1,
+      "sourceSize": 931,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/ofetch/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 94
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 94,
+      "invokeCount": 1,
+      "sourceSize": 891,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/ofetch/dist/shared/ofetch.00501375.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 123
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 123,
+      "invokeCount": 1,
+      "sourceSize": 8818,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/pathe/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 131
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 131,
+      "invokeCount": 1,
+      "sourceSize": 272,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/pathe/dist/shared/pathe.ff20891b.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 30
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 30,
+      "invokeCount": 1,
+      "sourceSize": 6539,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/radix3/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 69
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 69,
+      "invokeCount": 1,
+      "sourceSize": 7089,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/ufo/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 57
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 57,
+      "invokeCount": 1,
+      "sourceSize": 18202,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/uncrypto/dist/crypto.web.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 77
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 77,
+      "invokeCount": 1,
+      "sourceSize": 348,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/unctx/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 114
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 114,
+      "invokeCount": 1,
+      "sourceSize": 3878,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/unenv/runtime/_internal/utils.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 158
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 158,
+      "invokeCount": 1,
+      "sourceSize": 895,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/unenv/runtime/node/events/_events.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 4
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 4,
+      "invokeCount": 1,
+      "sourceSize": 6481,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/unenv/runtime/node/events/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 63
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 63,
+      "invokeCount": 1,
+      "sourceSize": 218,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/unenv/runtime/node/http/_request.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 67
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 67,
+      "invokeCount": 1,
+      "sourceSize": 1129,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/unenv/runtime/node/http/_response.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 66
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 66,
+      "invokeCount": 1,
+      "sourceSize": 2193,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/unenv/runtime/node/net/socket.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 145
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 145,
+      "invokeCount": 1,
+      "sourceSize": 1425,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/unenv/runtime/node/stream/duplex.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 47
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 47,
+      "invokeCount": 1,
+      "sourceSize": 678,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/unenv/runtime/node/stream/readable.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 161
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 161,
+      "invokeCount": 1,
+      "sourceSize": 2697,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/unenv/runtime/node/stream/writable.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 156
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 156,
+      "invokeCount": 1,
+      "sourceSize": 2357,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/unhead/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 129
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 129,
+      "invokeCount": 1,
+      "sourceSize": 20845,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/vue-router/dist/vue-router.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 92
+        },
+        {
+          "name": "vite:define",
+          "transform": 3
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 95,
+      "invokeCount": 1,
+      "sourceSize": 147386,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 108
+        },
+        {
+          "name": "vite:define",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 108,
+      "invokeCount": 1,
+      "sourceSize": 517,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/workbox-window/build/workbox-window.prod.es5.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 83
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 83,
+      "invokeCount": 1,
+      "sourceSize": 5426,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/pages/[...slug].vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 153
+        },
+        {
+          "name": "vite:vue",
+          "transform": 0
+        },
+        {
+          "name": "nuxt:composable-keys",
+          "transform": 2
+        },
+        {
+          "name": "nuxt:imports-transform",
+          "transform": 0
+        },
+        {
+          "name": "nuxt:components-loader",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 156,
+      "invokeCount": 1,
+      "sourceSize": 1003,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/pages/[...slug].vue?macro=true",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 143
+        },
+        {
+          "name": "vite:vue",
+          "transform": 4
+        },
+        {
+          "name": "nuxt:imports-transform",
+          "transform": 2
+        },
+        {
+          "name": "nuxt:pages-macros-transform",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 150,
+      "invokeCount": 1,
+      "sourceSize": 1003,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/pages/[...slug].vue?vue&type=style&index=0&lang.css",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue",
+          "transform": 0
+        },
+        {
+          "name": "vite:css",
+          "transform": 89
+        },
+        {
+          "name": "vite:vue",
+          "transform": 0
+        },
+        {
+          "name": "vite:css-post",
+          "transform": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 89,
+      "invokeCount": 1,
+      "sourceSize": 311,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/.nuxt/app-component.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 124,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/.nuxt/components.islands.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 17,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/.nuxt/components.plugin.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 117,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/.nuxt/css.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 3
+        },
+        {
+          "name": "ssr-styles",
+          "resolveId": 4
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 33,
+      "sourceSize": 0,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/.nuxt/error-component.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 137,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/.nuxt/fetch.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 3
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 168,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/.nuxt/layouts.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 17,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/.nuxt/middleware.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 386,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/.nuxt/nitro.client.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 70,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/.nuxt/nuxt.config.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 3
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        },
+        {
+          "name": "alias",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 907,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/.nuxt/pages.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 37,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/.nuxt/paths.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "replace",
+          "transform": 1
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 3
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        }
+      ],
+      "virtual": true,
+      "totalTime": 1,
+      "invokeCount": 1,
+      "sourceSize": 622,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/.nuxt/plugins/client.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 3
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 1820,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/.nuxt/root-component.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 3
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 131,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/.nuxt/router.options.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 276,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/.nuxt/routes.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "vite:build-import-analysis",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 615,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/.nuxt/test-component-wrapper.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 140,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/.nuxt/unhead-plugins.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 17,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/.nuxt/vue-router-stub.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 27,
+      "distSize": 0
+    }
+  ],
+  "ssrModules": [
+    {
+      "id": "\u0000virtual:pwa-assets/icons",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite-plugin-pwa:pwa-assets",
+          "resolveId": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 0,
+      "sourceSize": 0,
+      "distSize": 0
+    },
+    {
+      "id": "\u0000virtual:pwa-info",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite-plugin-pwa:info",
+          "resolveId": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 0,
+      "sourceSize": 0,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/.nuxt/app.config.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 5
+        },
+        {
+          "name": "vite:define",
+          "transform": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 6,
+      "invokeCount": 1,
+      "sourceSize": 393,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/@nuxt/ui-templates/dist/templates/error-404.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 54
+        },
+        {
+          "name": "vite:vue",
+          "transform": 3
+        },
+        {
+          "name": "nuxt:imports-transform",
+          "transform": 1
+        },
+        {
+          "name": "nuxt:imports-transform",
+          "transform": 1
+        },
+        {
+          "name": "nuxt:components-loader",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "ssr-styles",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 59,
+      "invokeCount": 1,
+      "sourceSize": 5283,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/@nuxt/ui-templates/dist/templates/error-404.vue?vue&type=style&index=0&scoped=ccd3db62&lang.css",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue",
+          "transform": 0
+        },
+        {
+          "name": "vite:css",
+          "transform": 8
+        },
+        {
+          "name": "vite:vue",
+          "transform": 1
+        },
+        {
+          "name": "vite:css-post",
+          "transform": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 9,
+      "invokeCount": 1,
+      "sourceSize": 3195,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/@nuxt/ui-templates/dist/templates/error-404.vue?vue&type=style&index=0&scoped=ccd3db62&lang.css?inline&used",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue",
+          "transform": 0
+        },
+        {
+          "name": "vite:css",
+          "transform": 8
+        },
+        {
+          "name": "vite:vue",
+          "transform": 3
+        },
+        {
+          "name": "vite:css-post",
+          "transform": 1
+        }
+      ],
+      "virtual": true,
+      "totalTime": 12,
+      "invokeCount": 1,
+      "sourceSize": 3195,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/@nuxt/ui-templates/dist/templates/error-500.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 33
+        },
+        {
+          "name": "vite:vue",
+          "transform": 2
+        },
+        {
+          "name": "nuxt:imports-transform",
+          "transform": 1
+        },
+        {
+          "name": "nuxt:imports-transform",
+          "transform": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "ssr-styles",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 37,
+      "invokeCount": 1,
+      "sourceSize": 3283,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/@nuxt/ui-templates/dist/templates/error-500.vue?vue&type=style&index=0&scoped=df79c84d&lang.css",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue",
+          "transform": 0
+        },
+        {
+          "name": "vite:css",
+          "transform": 4
+        },
+        {
+          "name": "vite:vue",
+          "transform": 2
+        },
+        {
+          "name": "vite:css-post",
+          "transform": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 6,
+      "invokeCount": 1,
+      "sourceSize": 1494,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/@nuxt/ui-templates/dist/templates/error-500.vue?vue&type=style&index=0&scoped=df79c84d&lang.css?inline&used",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue",
+          "transform": 0
+        },
+        {
+          "name": "vite:css",
+          "transform": 4
+        },
+        {
+          "name": "vite:vue",
+          "transform": 2
+        },
+        {
+          "name": "vite:css-post",
+          "transform": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 6,
+      "invokeCount": 1,
+      "sourceSize": 1494,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/@nuxt/ui-templates/dist/templates/error-dev.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 16
+        },
+        {
+          "name": "vite:vue",
+          "transform": 4
+        },
+        {
+          "name": "nuxt:imports-transform",
+          "transform": 0
+        },
+        {
+          "name": "nuxt:imports-transform",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "ssr-styles",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 20,
+      "invokeCount": 1,
+      "sourceSize": 4089,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/@nuxt/ui-templates/dist/templates/error-dev.vue?vue&type=style&index=0&scoped=51ccc917&lang.css",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue",
+          "transform": 0
+        },
+        {
+          "name": "vite:css",
+          "transform": 7
+        },
+        {
+          "name": "vite:vue",
+          "transform": 1
+        },
+        {
+          "name": "vite:css-post",
+          "transform": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 8,
+      "invokeCount": 1,
+      "sourceSize": 1946,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/@unhead/vue/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 75
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 2
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 75,
+      "invokeCount": 1,
+      "sourceSize": 3864,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/@unhead/vue/dist/shared/vue.cf295fb1.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 93
+        },
+        {
+          "name": "replace",
+          "transform": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 94,
+      "invokeCount": 1,
+      "sourceSize": 2633,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/@unhead/vue/dist/shared/vue.f36acd1f.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 91
+        },
+        {
+          "name": "nuxt:tree-shake-composables:transform",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 91,
+      "invokeCount": 1,
+      "sourceSize": 1035,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/@vite-pwa/nuxt/dist/runtime/components/VitePwaManifest.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 30
+        },
+        {
+          "name": "nuxt:imports-transform",
+          "transform": 0
+        },
+        {
+          "name": "nuxt:imports-transform",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 30,
+      "invokeCount": 1,
+      "sourceSize": 703,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/@vite-pwa/nuxt/dist/runtime/plugins/pwa-icons.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 44
+        },
+        {
+          "name": "nuxt:imports-transform",
+          "transform": 0
+        },
+        {
+          "name": "nuxt:imports-transform",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 44,
+      "invokeCount": 1,
+      "sourceSize": 896,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/compat/idle-callback.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 13
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 13,
+      "invokeCount": 1,
+      "sourceSize": 456,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/components/injections.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 54
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 54,
+      "invokeCount": 1,
+      "sourceSize": 103,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/components/island-renderer.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 59
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 59,
+      "invokeCount": 1,
+      "sourceSize": 719,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/components/nuxt-error-page.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 41
+        },
+        {
+          "name": "vite:vue",
+          "transform": 3
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 44,
+      "invokeCount": 1,
+      "sourceSize": 1688,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/components/nuxt-layout.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 85
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "nuxt:tree-shake-composables:transform",
+          "transform": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 86,
+      "invokeCount": 1,
+      "sourceSize": 4083,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/components/nuxt-link.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 30
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "nuxt:tree-shake-composables:transform",
+          "transform": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 31,
+      "invokeCount": 1,
+      "sourceSize": 10108,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/components/nuxt-root.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 47
+        },
+        {
+          "name": "vite:vue",
+          "transform": 8
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 55,
+      "invokeCount": 1,
+      "sourceSize": 2279,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/components/route-provider.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 17
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "nuxt:tree-shake-composables:transform",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 19
+        }
+      ],
+      "virtual": false,
+      "totalTime": 17,
+      "invokeCount": 1,
+      "sourceSize": 1419,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/components/test-component-wrapper.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 55
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 55,
+      "invokeCount": 1,
+      "sourceSize": 943,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/components/utils.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 114
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 117
+        },
+        {
+          "name": "alias",
+          "resolveId": 8
+        }
+      ],
+      "virtual": false,
+      "totalTime": 114,
+      "invokeCount": 1,
+      "sourceSize": 4361,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/composables/asyncData.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 98
+        },
+        {
+          "name": "replace",
+          "transform": 1
+        },
+        {
+          "name": "nuxt:tree-shake-composables:transform",
+          "transform": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 108
+        }
+      ],
+      "virtual": false,
+      "totalTime": 100,
+      "invokeCount": 1,
+      "sourceSize": 6899,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/composables/error.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 38
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 41
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 38,
+      "invokeCount": 1,
+      "sourceSize": 1022,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/composables/manifest.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 48
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 48,
+      "invokeCount": 1,
+      "sourceSize": 984,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/composables/payload.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 57
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 57,
+      "invokeCount": 1,
+      "sourceSize": 3787,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/composables/preload.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 14
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 14,
+      "invokeCount": 1,
+      "sourceSize": 1595,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/composables/ready.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 36
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 36,
+      "invokeCount": 1,
+      "sourceSize": 412,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/composables/router.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 32
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 39
+        },
+        {
+          "name": "alias",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 32,
+      "invokeCount": 1,
+      "sourceSize": 5967,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/config.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 102
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:define",
+          "transform": 4
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 106,
+      "invokeCount": 1,
+      "sourceSize": 1574,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/entry.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 0
+        },
+        {
+          "name": "replace",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 1,
+      "invokeCount": 1,
+      "sourceSize": 2259,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/middleware/manifest-route-rule.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 36
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "unctx:transform",
+          "transform": 0
+        },
+        {
+          "name": "unctx:transform",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 36,
+      "invokeCount": 1,
+      "sourceSize": 356,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/nuxt.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 8
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:define",
+          "transform": 5
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 13
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 13,
+      "invokeCount": 1,
+      "sourceSize": 6071,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/app/plugins/revive-payload.server.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 40
+        }
+      ],
+      "virtual": false,
+      "totalTime": 40,
+      "invokeCount": 1,
+      "sourceSize": 1177,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/head/runtime/plugins/unhead.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 35
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 35,
+      "invokeCount": 1,
+      "sourceSize": 1315,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/pages/runtime/app.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 49
+        },
+        {
+          "name": "vite:vue",
+          "transform": 1
+        },
+        {
+          "name": "nuxt:components-loader",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 50,
+      "invokeCount": 1,
+      "sourceSize": 71,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/pages/runtime/page.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 91
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 91,
+      "invokeCount": 1,
+      "sourceSize": 4931,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/pages/runtime/plugins/router.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 15
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "unctx:transform",
+          "transform": 2
+        },
+        {
+          "name": "unctx:transform",
+          "transform": 2
+        }
+      ],
+      "virtual": false,
+      "totalTime": 19,
+      "invokeCount": 1,
+      "sourceSize": 7123,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/pages/runtime/router.options.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 61
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 61,
+      "invokeCount": 1,
+      "sourceSize": 1714,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/pages/runtime/utils.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 15
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 15,
+      "invokeCount": 1,
+      "sourceSize": 789,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/nuxt/dist/pages/runtime/validate.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 63
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "unctx:transform",
+          "transform": 0
+        },
+        {
+          "name": "unctx:transform",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 63,
+      "invokeCount": 1,
+      "sourceSize": 931,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/node_modules/unctx/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 30
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 30,
+      "invokeCount": 1,
+      "sourceSize": 3878,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/pages/[...slug].vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 45
+        },
+        {
+          "name": "vite:vue",
+          "transform": 1
+        },
+        {
+          "name": "nuxt:composable-keys",
+          "transform": 1
+        },
+        {
+          "name": "nuxt:composable-keys",
+          "transform": 1
+        },
+        {
+          "name": "nuxt:imports-transform",
+          "transform": 0
+        },
+        {
+          "name": "nuxt:imports-transform",
+          "transform": 0
+        },
+        {
+          "name": "nuxt:components-loader",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 49,
+      "invokeCount": 1,
+      "sourceSize": 1003,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/pages/[...slug].vue?macro=true",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 38
+        },
+        {
+          "name": "vite:vue",
+          "transform": 3
+        },
+        {
+          "name": "nuxt:imports-transform",
+          "transform": 3
+        },
+        {
+          "name": "nuxt:imports-transform",
+          "transform": 3
+        },
+        {
+          "name": "nuxt:pages-macros-transform",
+          "transform": 1
+        },
+        {
+          "name": "nuxt:pages-macros-transform",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 49,
+      "invokeCount": 1,
+      "sourceSize": 1003,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/pages/[...slug].vue?vue&type=style&index=0&lang.css",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue",
+          "transform": 0
+        },
+        {
+          "name": "vite:css",
+          "transform": 3
+        },
+        {
+          "name": "vite:vue",
+          "transform": 1
+        },
+        {
+          "name": "vite:css-post",
+          "transform": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 4,
+      "invokeCount": 1,
+      "sourceSize": 311,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/pages/[...slug].vue?vue&type=style&index=0&lang.css?inline&used",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue",
+          "transform": 0
+        },
+        {
+          "name": "vite:css",
+          "transform": 5
+        },
+        {
+          "name": "vite:vue",
+          "transform": 1
+        },
+        {
+          "name": "vite:css-post",
+          "transform": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 6,
+      "invokeCount": 1,
+      "sourceSize": 311,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/.nuxt/app-component.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 124,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/.nuxt/components.islands.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 17,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/.nuxt/components.plugin.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 117,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/.nuxt/css.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 3
+        },
+        {
+          "name": "ssr-styles",
+          "resolveId": 4
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 40,
+      "sourceSize": 0,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/.nuxt/error-component.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 137,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/.nuxt/fetch.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 168,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/.nuxt/layouts.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 17,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/.nuxt/middleware.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 386,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/.nuxt/nuxt.config.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 3
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 907,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/.nuxt/pages.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 37,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/.nuxt/paths.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 622,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/.nuxt/plugins/server.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 870,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/.nuxt/root-component.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 131,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/.nuxt/router.options.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 276,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/.nuxt/routes.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 615,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/.nuxt/test-component-wrapper.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 140,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/.nuxt/unhead-plugins.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 17,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/antondidenko/Downloads/nuxt-3-sdk-demo-9opbku/.nuxt/vue-router-stub.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 27,
+      "distSize": 0
+    }
+  ]
+}
